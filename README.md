@@ -1,15 +1,15 @@
-# ShopHub Client
+# {{ PROJECT_NAME }}
 
 ## 📆 개발 기간
 
-2023.06 ~
+20xx.xx ~
 
 ## 👨‍💻 프로젝트 담당 인력
 
-|                                                                                        💻 front                                                                                         |                                                                💻 front                                                                |                                                               💻 front                                                                |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| <a href='https://github.com/minsoo-web'><img width="150" height="150" src="https://avatars1.githubusercontent.com/u/57122180?s=200&u=b32867107508426379c28b1d0c2fd8963912a5dd&v=4"></a> | <a href='https://github.com/Doeunnkimm'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/112946860?v=4"></a> | <a href='https://github.com/showme0241'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/77373566?v=4"></a> |
-|                                                                                       @minsoo-web                                                                                       |                                                              @Doeunnkimm                                                               |                                                              @showme0241                                                              |
+|                                                               💻 front                                                                |                                                               💻 front                                                                |                                                               💻 front                                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| <a href='https://github.com/minsoo-web'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/57122180?v=4"></a> | <a href='https://github.com/minsoo-web'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/57122180?v=4"></a> | <a href='https://github.com/minsoo-web'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/57122180?v=4"></a> |
+|                                                              @minsoo-web                                                              |                                                              @minsoo-web                                                              |                                                              @minsoo-web                                                              |
 
 ## 🗂 사용 기술 스택
 
