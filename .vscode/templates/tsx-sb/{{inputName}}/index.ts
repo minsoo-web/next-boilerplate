@@ -1,1 +1,1 @@
-export { {{ inputName }} } from './{{ inputName }}';
+export { {{ inputName }} } from "./{{ inputName }}";

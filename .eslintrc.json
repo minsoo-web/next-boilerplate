@@ -13,6 +13,7 @@
   ],
   "ignorePatterns": ["**/build/**/*.*", ".yarn/**/*", "node_modules", ".pnp.*", ".yarnrc.yml", "yarn.lock"],
   "rules": {
+    "quote-props": "warn",
     "@typescript-eslint/consistent-type-imports": "error",
     "@typescript-eslint/no-empty-function": 0,
     "react/button-has-type": 0,
