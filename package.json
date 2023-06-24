@@ -12,6 +12,7 @@
     "client": "yarn workspace client",
     "admin": "yarn workspace admin",
     "workshop": "yarn workspace workshop",
+    "ui": "yarn workspace @shophub/ui",
     "lint": "eslint .",
     "pre-commit": "lint-staged --config .lintstagedrc.js"
   },

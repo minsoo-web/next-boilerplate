@@ -1,3 +1,4 @@
+import { Button } from "@shophub/ui";
 import Image from "next/image";
 import styles from "./page.module.css";
 
@@ -5,6 +6,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        <Button foo="hi22" />
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
@@ -16,13 +18,27 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By{" "}
-            <Image src="/vercel.svg" alt="Vercel Logo" className={styles.vercelLogo} width={100} height={24} priority />
+            <Image
+              src="/vercel.svg"
+              alt="Vercel Logo"
+              className={styles.vercelLogo}
+              width={100}
+              height={24}
+              priority
+            />
           </a>
         </div>
       </div>
 
       <div className={styles.center}>
-        <Image className={styles.logo} src="/next.svg" alt="Next.js Logo" width={180} height={37} priority />
+        <Image
+          className={styles.logo}
+          src="/next.svg"
+          alt="Next.js Logo"
+          width={180}
+          height={37}
+          priority
+        />
       </div>
 
       <div className={styles.grid}>
