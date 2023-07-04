@@ -1,4 +1,4 @@
 {
-  "extends": "@shophub/ts-config/react-library.json",
+  "extends": "@impack/ts-config/react-library.json",
   "include": ["src"]
 }

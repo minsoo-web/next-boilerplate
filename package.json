@@ -1,7 +1,7 @@
 {
-  "name": "shophub-client",
+  "name": "impack",
   "version": "0.1.0",
-  "repository": "https://github.com/shophubkr/shophub-client.git",
+  "repository": "https://github.com/imwebme/impack.git",
   "author": "minsoo-web <zlemzlem5656@naver.com>",
   "workspaces": [
     "apps/*",
@@ -12,7 +12,7 @@
     "client": "yarn workspace client",
     "admin": "yarn workspace admin",
     "workshop": "yarn workspace workshop",
-    "ui": "yarn workspace @shophub/ui",
+    "ui": "yarn workspace @impack/ui",
     "lint": "eslint .",
     "pre-commit": "lint-staged --config .lintstagedrc.js"
   },

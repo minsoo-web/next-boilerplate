@@ -1,8 +1,8 @@
-# {{ PROJECT_NAME }}
+# Impack
 
 ## 📆 개발 기간
 
-20xx.xx ~
+2023.07 ~
 
 ## 👨‍💻 프로젝트 담당 인력
 
@@ -12,21 +12,6 @@
 |                                                              @minsoo-web                                                              |                                                              @minsoo-web                                                              |                                                              @minsoo-web                                                              |
 
 ## 🗂 사용 기술 스택
-
-- Deploy
-
-  - Vercel
-  - Github action
-
-- client
-
-  - SSR: NextJS@13.4.7 (with swc)
-  - Chakra UI
-  - Typescript
-  - State management
-    - react-query
-    - recoil
-  - Storybook
 
 - Management
 
